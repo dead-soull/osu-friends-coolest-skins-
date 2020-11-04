@@ -3,7 +3,8 @@ If you have any questions or suggestions or some of images/links got corrupted o
 
 # Let's get started! uwu
 
-skins are in order from new to old (click the name to download)
+Skins are in order from new to old (click the name to download)
+
 (HQ) after the author means that you should have a decent pc and have HighResolution = 1 in your Config.ini in the osu! folder to run the skin without any problems
 
 # [Kucheryavyy's skin](https://deadsoul.s-ul.eu/3H3qh2EV)
