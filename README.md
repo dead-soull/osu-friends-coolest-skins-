@@ -7,14 +7,14 @@ Skins are in order from new to old (click the name to download)
 
 (HQ) after the author means that you should have a decent pc and have HighResolution = 1 in your Config.ini in the osu! folder to run the skin without any problems
 
+Molneya have so much skins that I can't even handle them O:
+Here's a link to his github skins library: https://github.com/molneya/molneyas-osu-skins
+
+# [-+Shige+Seoul+(16-9) ( Better Version ) by Jee](https://deadsoul.s-ul.eu/CNcg0PMe)
+![](https://i.imgur.com/ZCSRCOg.png)
+
 # [Kucheryavyy's skin](https://deadsoul.s-ul.eu/3H3qh2EV)
 ![](https://i.imgur.com/lqUJ9Y7.png)
-
-# [Molneya's skin 2020.10.19(black trail)](https://deadsoul.s-ul.eu/GcVSffys)
-![](https://cdn.discordapp.com/attachments/725458121908027485/767689327425355796/screenshot633.png)
-
-# [Molneya's skin 2020.10.17(black trail)](https://deadsoul.s-ul.eu/7slaKmqv)
-![](https://media.discordapp.net/attachments/725458121908027485/767364999898464296/screenshot622.png)
 
 # [Diffuture 1.3 by dead soul](https://deadsoul.s-ul.eu/bHwRMv5R)
 ![](https://cdn.discordapp.com/attachments/725458121908027485/767044629174419486/screenshot282.png)
