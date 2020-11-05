@@ -34,9 +34,6 @@ Here's a link to his github skins library: https://github.com/molneya/molneyas-o
 # [- # GreenCat (1.0) 『CK』 #- by Noriaki-](https://deadsoul.s-ul.eu/OeoWcs4q)
 ![](https://i.imgur.com/taTWmKD.png)
 
-# [Rohulk 4.0 by Jee](https://deadsoul.s-ul.eu/TZMqX7Oi)
-![](https://i.imgur.com/ELIBusc.png)
-
 # [- # BlueCat (1.0) 『CK』 #- by Noriaki-](https://deadsoul.s-ul.eu/xwqVFOPK)
 ![](https://i.imgur.com/orfc1R7.png)
 
