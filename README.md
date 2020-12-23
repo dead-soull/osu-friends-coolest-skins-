@@ -11,7 +11,7 @@ Molneya have so much skins that I can't even handle them O:
 Here's a link to his github skins library: https://github.com/molneya/molneyas-osu-skins
 
 
-# [Molneya's instafade design skin by molneya(lmao)](https://deadsoul.s-ul.eu/z1wkIwXN)
+# [Molneya's instafade design skin by molneya(lmao)((also for CTB))](https://deadsoul.s-ul.eu/z1wkIwXN)
 ![](https://i.imgur.com/wAqgo4F.png)
 
 # [filsdelama 2017 by Mystrion](https://circle-people.com/wp-content/Skins/filsdelama/filsdelama%202017-10-14.osk)
