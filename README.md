@@ -5,11 +5,14 @@ If you have any questions or suggestions or some of images/links got corrupted o
 
 Skins are in order from new to old (click the name to download)
 
-(HQ) after the author means that you should have a decent pc and have HighResolution = 1 in your Config.ini in the osu! folder to run the skin without any problems
+(HQ) after the author means that you should have a decent pc(probably not) and have HighResolution = 1 in your osu!.username.cfg in the osu! folder to run the skin without any problems
 
 Molneya have so much skins that I can't even handle them O:
 Here's a link to his github skins library: https://github.com/molneya/molneyas-osu-skins
 
+
+# [Molneya's instafade design skin by molneya(lmao)](https://deadsoul.s-ul.eu/z1wkIwXN)
+![](https://i.imgur.com/wAqgo4F.png)
 
 # [filsdelama 2017 by Mystrion](https://circle-people.com/wp-content/Skins/filsdelama/filsdelama%202017-10-14.osk)
 ![](https://cdn.discordapp.com/attachments/725458121908027485/784155913337962506/screenshot021.jpg)
